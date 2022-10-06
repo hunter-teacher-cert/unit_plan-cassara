@@ -1,5 +1,5 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Simulation App
+by Aasine Cassara
 
 -----
 
