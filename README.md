@@ -14,7 +14,26 @@ I am starting to teach Python this year instead of javascript and I want my kids
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+9-12.IC.5
+Describe ways that complex computer
+systems can be designed for
+inclusivity and to mitigate unintended
+consequences.
+
+9-12.IC.6
+Create accessible computational
+artifacts that meet standard
+compliance requirements or otherwise
+meet the needs of users with
+disabilities.
+
+9-12.IC.7
+Investigate the use of computer
+science in multiple fields
+
+9-12.CT.1
+Create a simple digital model that
+makes predictions of outcomes.
 
 ---
 
