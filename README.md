@@ -4,12 +4,12 @@ by TEAM MEMBERS
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+Python Simulation App - Students will be presented with 3 design challenges - they choose 1 and complete the engineering design process.  After they complete a scaled drawing they then have to code a simulation in python
 
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
+I am starting to teach Python this year instead of javascript and I want my kids to be engaged
 
 ---
 
