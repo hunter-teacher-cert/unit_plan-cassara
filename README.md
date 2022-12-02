@@ -1,15 +1,14 @@
-# Simulation App
+# Intro to CSS
 by Aasine Cassara
 
 -----
 
 ### General Overview
-Python Simulation App - Students will be presented with 3 design challenges - they choose 1 and complete the engineering design process.  After they complete a scaled drawing they then have to code a simulation in python
-
+Students will learn the basics of CSS in order to create their own website.
 ---
 
 ### Motivation for Unit
-I am starting to teach Python this year instead of javascript and I want my kids to be engaged
+I need a unit for post-AP exam that will keep my seniors engaged for the month of May.
 
 ---
 
@@ -48,7 +47,7 @@ makes predictions of outcomes.
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
